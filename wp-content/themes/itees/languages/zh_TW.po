@@ -1,0 +1,1474 @@
+# @ flatsome
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Project-Id-Version: ITEES\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Borch <chris@borch.com.tw>\n"
+"Language-Team: 博創數位 <service@borch.com.tw>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_TW\n"
+"X-Generator: Poedit 1.6.5\n"
+
+# @ default
+#: admin/classes/class.options_machine.php:556
+msgid "Last Backup : "
+msgstr ""
+
+# @ default
+#: admin/front-end/options.php:43 admin/front-end/options.php:67
+msgid "Save All Changes"
+msgstr ""
+
+# @ default
+#: admin/front-end/options.php:69
+msgid "Options Reset"
+msgstr ""
+
+# @ flatsome
+#: archive.php:40
+#, php-format
+msgid "Category Archives: %s"
+msgstr "分類存檔: %s"
+
+# @ flatsome
+#: archive.php:43
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "標籤匯整: %s"
+
+# @ flatsome
+#: archive.php:50
+#, php-format
+msgid "Author Archives: %s"
+msgstr "作者檔案: %s"
+
+# @ flatsome
+#: archive.php:58
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "每日檔案: %s"
+
+# @ flatsome
+#: archive.php:61
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "每月檔案: %s"
+
+# @ flatsome
+#: archive.php:64
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "每年的存檔: %s"
+
+# @ flatsome
+#: archive.php:67
+msgid "Asides"
+msgstr "旁白"
+
+# @ flatsome
+#: archive.php:70
+msgid "Images"
+msgstr "圖片"
+
+# @ flatsome
+#: archive.php:73
+msgid "Videos"
+msgstr "影片"
+
+# @ flatsome
+#: archive.php:76
+msgid "Quotes"
+msgstr "引用"
+
+# @ flatsome
+#: archive.php:79
+msgid "Links"
+msgstr "連結"
+
+# @ flatsome
+#: comments.php:29
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+
+# @ flatsome
+#: comments.php:36 comments.php:56
+msgid "&larr; Older Comments"
+msgstr "&larr; 更多的討論"
+
+# @ flatsome
+#: comments.php:37 comments.php:57
+msgid "Newer Comments &rarr;"
+msgstr "新的討論 &rarr;"
+
+# @ flatsome
+#: comments.php:55
+msgid "Comment navigation"
+msgstr "瀏覽討論"
+
+# @ flatsome
+#: comments.php:67
+msgid "Comments are closed."
+msgstr "討論關閉中"
+
+# @ flatsome
+#: content-page.php:17 content-single.php:32 content.php:46 image.php:92
+#: page-left-sidebar-notitle.php:22 page-right-sidebar-notitle.php:22
+msgid "Pages:"
+msgstr "頁面:"
+
+# @ flatsome
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:50 content-single.php:53 content.php:57 content.php:65
+#: content.php:108 content.php:116 content.php:166 content.php:186
+msgid ", "
+msgstr ""
+
+# @ flatsome
+#: content-single.php:58
+#, php-format
+msgid "This entry was posted in %1$s and tagged %2$s."
+msgstr "此文章被張貼在 %1$s 標註為 %2$s."
+
+# @ flatsome
+#: content-single.php:60
+#, php-format
+msgid ""
+"This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title="
+"\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+"此文章被張貼在 %1$s. 書籤 <a href=\"%3$s\" title=\"Permalink to %4$s\" rel="
+"\"bookmark\">網址</a>."
+
+# @ flatsome
+#: content.php:43
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "繼續閱讀 <span class=\"meta-nav\">&rarr;</span>"
+
+# @ flatsome
+#: content.php:60
+#, php-format
+msgid "Posted in %1$s"
+msgstr "張貼在 %1$s"
+
+# @ flatsome
+#: content.php:70 content.php:121 content.php:191
+#, php-format
+msgid "Tagged %1$s"
+msgstr "標籤 %1$s"
+
+# @ flatsome
+#: content.php:76 content.php:132 content.php:180
+#: inc/widgets/recent-posts.php:59
+msgid "Leave a comment"
+msgstr "加入討論"
+
+# @ flatsome
+#: content.php:76 content.php:132 content.php:180
+#: inc/widgets/recent-posts.php:59
+msgid "<strong>1</strong> Comment"
+msgstr "<strong>1</strong> 討論"
+
+# @ flatsome
+#: content.php:76 content.php:132 content.php:180
+#: inc/widgets/recent-posts.php:59
+msgid "<strong>%</strong> Comments"
+msgstr "<strong>%</strong> 討論"
+
+# @ flatsome
+#: content.php:111 content.php:169
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+# @ flatsome
+#: functions.php:164 inc/class-tgm-plugin-activation.php:164
+msgid "Install Required Plugins"
+msgstr "安裝所需的外掛"
+
+# @ flatsome
+#: functions.php:165 inc/class-tgm-plugin-activation.php:165
+msgid "Install Plugins"
+msgstr "安裝外掛"
+
+# @ flatsome
+#: functions.php:166 inc/class-tgm-plugin-activation.php:166
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "安裝外掛: %s"
+
+# @ flatsome
+#: functions.php:167
+msgid "Something went wrong with the plugin API."
+msgstr "插件的API出錯了。"
+
+# @ flatsome
+#: functions.php:168 inc/class-tgm-plugin-activation.php:168
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+
+# @ flatsome
+#: functions.php:169 inc/class-tgm-plugin-activation.php:169
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+
+# @ flatsome
+#: functions.php:170 inc/class-tgm-plugin-activation.php:170
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+
+# @ flatsome
+#: functions.php:171 inc/class-tgm-plugin-activation.php:171
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+
+# @ flatsome
+#: functions.php:172 inc/class-tgm-plugin-activation.php:172
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+
+# @ flatsome
+#: functions.php:173 inc/class-tgm-plugin-activation.php:173
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+
+# @ flatsome
+#: functions.php:174 inc/class-tgm-plugin-activation.php:174
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+
+# @ flatsome
+#: functions.php:175 inc/class-tgm-plugin-activation.php:175
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+
+# @ flatsome
+#: functions.php:176 inc/class-tgm-plugin-activation.php:176
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+
+# @ flatsome
+#: functions.php:177 inc/class-tgm-plugin-activation.php:177
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+
+# @ flatsome
+#: functions.php:178 inc/class-tgm-plugin-activation.php:178
+#: inc/class-tgm-plugin-activation.php:490
+msgid "Return to Required Plugins Installer"
+msgstr "返回到所需的插件安裝程序"
+
+# @ flatsome
+#: functions.php:179 inc/class-tgm-plugin-activation.php:179
+#: inc/class-tgm-plugin-activation.php:1846
+msgid "Plugin activated successfully."
+msgstr "插件成功啟用。"
+
+# @ flatsome
+#: functions.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "成功安裝並激活所有插件. %s"
+
+# @ flatsome
+#: functions.php:213
+msgid "Main Menu"
+msgstr "主選單"
+
+# @ flatsome
+#: functions.php:214
+msgid "Footer Menu"
+msgstr "底部選單"
+
+# @ flatsome
+#: functions.php:215
+msgid "Top bar Menu"
+msgstr "頂欄選單"
+
+# @ flatsome
+#: functions.php:216
+msgid "My Account Menu"
+msgstr "我的帳戶選單"
+
+# @ flatsome
+#: functions.php:231
+msgid "Sidebar"
+msgstr "側欄"
+
+# @ flatsome
+#: functions.php:241
+msgid "Shop Sidebar"
+msgstr "商店側欄"
+
+# @ flatsome
+#: functions.php:250
+msgid "Product Sidebar"
+msgstr "產品側欄"
+
+# @ flatsome
+#: functions.php:260
+msgid "Footer 1 (4 column)"
+msgstr "註腳1 (4列)"
+
+# @ flatsome
+#: functions.php:270
+msgid "Footer 2 (4 column)"
+msgstr "註腳2 (4列)"
+
+# @ default
+#: functions.php:350
+msgid "Flatsome Theme Options"
+msgstr ""
+
+# @ woocommerce
+#: header.php:170
+msgid "My Account"
+msgstr "會員中心"
+
+# @ woocommerce
+#: header.php:190 woocommerce/myaccount/form-login.php:27
+#: woocommerce/myaccount/form-login.php:46
+msgid "Login"
+msgstr "登入"
+
+# @ woocommerce
+#: header.php:205 inc/template-tags.php:246
+msgid "Cart"
+msgstr "購物車"
+
+# @ woocommerce
+#: header.php:224 inc/template-tags.php:304
+msgid "No products in the cart."
+msgstr "沒有任何商品在購物車中"
+
+# @ flatsome
+#: image.php:25
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size "
+"image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" "
+"rel=\"gallery\">%8$s</a>"
+msgstr ""
+"發布時間 <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"鏈接到完整大小的圖片"
+"\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"返回 %7$s\" rel="
+"\"gallery\">%8$s</a>"
+
+# @ flatsome
+#: image.php:36 image.php:109 inc/template-tags.php:77
+#: inc/template-tags.php:106
+msgid "Edit"
+msgstr "編輯"
+
+# @ flatsome
+#: image.php:101
+#, php-format
+msgid ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a "
+"comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">發表評論"
+"</a> 或引用文章: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback "
+"URL for your post\" rel=\"trackback\">連結</a>."
+
+# @ flatsome
+#: image.php:103
+#, php-format
+msgid ""
+"Comments are closed, but you can leave a trackback: <a class=\"trackback-link"
+"\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback"
+"\">Trackback URL</a>."
+msgstr ""
+"評論被關閉，但是你可以留下引用: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"Trackback URL for your post\" rel=\"trackback\">引用網址</a>."
+
+# @ flatsome
+#: image.php:105
+msgid ""
+"Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond"
+"\" title=\"Post a comment\">post a comment</a>."
+msgstr ""
+"自動發出引用通知是關閉的 <a class=\"comment-link\" href=\"#respond\" title="
+"\"Post a comment\">發表評論</a>."
+
+# @ flatsome
+#: image.php:107
+msgid "Both comments and trackbacks are currently closed."
+msgstr ""
+
+# @ flatsome
+# @ woocommerce
+#: image.php:114 woocommerce/single-product-reviews.php:59
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> 上一頁"
+
+# @ flatsome
+# @ woocommerce
+#: image.php:115 woocommerce/single-product-reviews.php:60
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "下一頁 <span class=\"meta-nav\">&rarr;</span>"
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr "發生了錯誤，請聯繫管理員"
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "成功安裝並激活所有插件. %1$s"
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:517
+#: inc/class-tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr "返回到控制台"
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr "以下插件已成功激活: %s."
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr "關閉這個通知"
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr "外部連結"
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr "私人訊息"
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr "預包裝的"
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr "WordPress 版本"
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1106
+msgid "Required"
+msgstr "需要"
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1106
+msgid "Recommended"
+msgstr "推薦"
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr "未安裝"
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr "安裝但尚未激活"
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1281
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"無插件安裝或激活. <a href=\"%1$s\" title=\"Return to the Dashboard\">返回到控"
+"制台</a>"
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr "插件"
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1298
+msgid "Source"
+msgstr "來源"
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1299
+msgid "Type"
+msgstr "類型"
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1300
+msgid "Status"
+msgstr "狀態"
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr "安裝"
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1319
+msgid "Activate"
+msgstr "啟用"
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1544
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr "沒有安裝檔案。"
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "下載安裝檔案 <span class=\"code\">%s</span>&#8230;"
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr "檔案解壓縮&#8230;"
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr "安裝插件&#8230;"
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr "插件安裝失敗。"
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr "插件安裝成功。"
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr "插件激活失敗。"
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1955
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"在安裝和激活過程已經開始。此過程可能需要對某些主機一段時間，所以請耐心等待。"
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s 的安裝並成功激活。"
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1956
+#: inc/class-tgm-plugin-activation.php:1965
+msgid "Show Details"
+msgstr "顯示詳細訊息"
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1956
+#: inc/class-tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr "隱藏詳細信息"
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr "所有安裝和激活已經完成。"
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "安裝並激活插件 %1$s (%2$d/%3$d)"
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1962
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr "在安裝過程開始。此過程可能需要對某些主機一段時間，所以請耐心等待。"
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "安裝時發生錯誤 %1$s: <strong>%2$s</strong>."
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "安裝 %1$s 失敗"
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s 的安裝成功。"
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr "所有安裝都已經完成。"
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "安裝插件 %1$s (%2$d/%3$d)"
+
+# @ flatsome
+#: inc/custom-css.php:160
+msgid "New"
+msgstr "最新"
+
+# @ flatsome
+#: inc/custom-css.php:161
+msgid "Hot"
+msgstr "熱門"
+
+# @ flatsome
+#: inc/custom-css.php:162
+msgid "Sale"
+msgstr "特價"
+
+# @ flatsome
+#: inc/custom-css.php:163
+msgid "Popular"
+msgstr "最受歡迎"
+
+# @ flatsome
+#: inc/extras.php:99
+#, php-format
+msgid "Page %s"
+msgstr " %s 頁面"
+
+# @ pippin
+#: inc/extras.php:118
+msgid "Top Content"
+msgstr "主要內容"
+
+# @ pippin
+#: inc/extras.php:124
+msgid ""
+"Enter a value for this field. Shortcodes are allowed. This will be displayed "
+"at top of the category."
+msgstr "輸入此字段的值。簡碼是允許的。這將在類的頂部被顯示"
+
+# @ default
+#: inc/post-types/blocks.php:27
+msgid "Title"
+msgstr ""
+
+# @ default
+#: inc/post-types/blocks.php:28
+msgid "Shortcode"
+msgstr ""
+
+# @ default
+#: inc/post-types/blocks.php:29
+msgid "Date"
+msgstr ""
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:21
+msgid "Share on Facebook"
+msgstr "分享到Facebook"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:24
+msgid "Share on Twitter"
+msgstr "分享到 Twitter"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:27
+msgid "Email to a Friend"
+msgstr "Email 給朋友"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:30
+msgid "Pin on Pinterest"
+msgstr "分享到 Pinterest"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:33
+msgid "Share on Google+"
+msgstr "分享到 Google+"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:73
+msgid "Follow us on Facebook"
+msgstr "加入粉絲團"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:76
+msgid "Follow us on Twitter"
+msgstr "加入我們的 Twitter"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:79
+msgid "Send us an email"
+msgstr "寄信給客服"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:82
+msgid "Follow us on Pinterest"
+msgstr "加入我們的 Pinterest"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:85
+msgid "Follow us on Google+"
+msgstr "訂閱我們的 Google+"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:88
+msgid "Follow us on Instagram"
+msgstr "跟隨我們的 Instagram"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:91
+msgid "Subscribe to RSS"
+msgstr "訂閱 RSS"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:94
+msgid "LinkedIn"
+msgstr "社交網站"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:97
+msgid "YouTube"
+msgstr "YouTube"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:100
+msgid "Flickr"
+msgstr "Flickr"
+
+# @ flatsome
+#: inc/template-tags.php:49
+msgid "<span class=\"icon-angle-left\"></span> Older posts"
+msgstr "<span class=\"icon-angle-left\"></span> 舊文章"
+
+# @ flatsome
+#: inc/template-tags.php:53
+msgid "Newer posts <span class=\"icon-angle-right\"></span>"
+msgstr "新文章 <span class=\"icon-angle-right\"></span>"
+
+# @ flatsome
+#: inc/template-tags.php:77
+msgid "Pingback:"
+msgstr "自動通告:"
+
+# @ flatsome
+#: inc/template-tags.php:93
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">說:</span>"
+
+# @ flatsome
+#: inc/template-tags.php:95
+msgid "Your comment is awaiting moderation."
+msgstr "您的留言正等待審核。"
+
+# @ flatsome
+#: inc/template-tags.php:104
+#, php-format
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s 在 %2$s"
+
+# @ flatsome
+#: inc/template-tags.php:141
+#, php-format
+msgid ""
+"<span class=\"meta-author\">by <strong><a class=\"url fn n\" href=\"%5$s\" "
+"title=\"%6$s\" rel=\"author\">%7$s</a></strong>.</span> Posted on <a href="
+"\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime="
+"\"%3$s\">%4$s</time></a>"
+msgstr ""
+"<span class=\"meta-author\">by <strong><a class=\"url fn n\" href=\"%5$s\" "
+"title=\"%6$s\" rel=\"author\">%7$s</a></strong>.</span> 分享於 <a href=\"%1$s"
+"\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s"
+"\">%4$s</time></a>"
+
+# @ flatsome
+#: inc/template-tags.php:147
+#, php-format
+msgid "View all posts by %s"
+msgstr "瀏覽所有文章 %s"
+
+# @ woocommerce
+#: inc/template-tags.php:274 woocommerce/cart/cart.php:52
+msgid "Remove this item"
+msgstr "刪除商品"
+
+# @ woocommerce
+#: inc/template-tags.php:280 woocommerce/cart/cart.php:33
+msgid "Quantity"
+msgstr "數量"
+
+# @ woocommerce
+#: inc/template-tags.php:296
+msgid "Cart Subtotal"
+msgstr "小計"
+
+# @ woocommerce
+#: inc/template-tags.php:299
+msgid "View Cart"
+msgstr "觀看購物車"
+
+# @ woocommerce
+#: inc/template-tags.php:301
+msgid "Proceed to Checkout"
+msgstr "前往結帳"
+
+# @ woocommerce
+#: inc/template-tags.php:343 woocommerce/single-product/review.php:23
+msgid "out of 5"
+msgstr "滿分5星"
+
+# @ default
+#: inc/template-tags.php:376
+msgid "Previous Post"
+msgstr ""
+
+# @ default
+#: inc/template-tags.php:376
+msgid "Next Post"
+msgstr ""
+
+# @ default
+#: inc/template-tags.php:423
+#, php-format
+msgid "Use commas instead of %s to separate excluded categories."
+msgstr ""
+
+# @ flatsome
+#: inc/widgets/recent-posts.php:17
+msgid "A widget that displays recent posts "
+msgstr "顯示最近的文章"
+
+# @ flatsome
+#: inc/widgets/recent-posts.php:21
+msgid "Flatsome Recent Posts"
+msgstr ""
+
+# @ flatsome
+#: inc/widgets/recent-posts.php:41
+msgid "Recent Posts"
+msgstr "最近的文章"
+
+# @ flatsome
+# @ default
+#: inc/widgets/recent-posts.php:95 inc/widgets/upsell-widget.php:109
+msgid "Title:"
+msgstr "標題:"
+
+# @ flatsome
+#: inc/widgets/recent-posts.php:98
+msgid "Number of posts to show:"
+msgstr ""
+
+# @ text_domain
+#: inc/widgets/upsell-widget.php:20
+msgid "Add upsell products to product page"
+msgstr "新增銷售商品頁面"
+
+# @ text_domain
+# @ flatsome
+#: inc/widgets/upsell-widget.php:105
+#: woocommerce/single-product/up-sells.php:40
+msgid "Complete the look"
+msgstr "完整的外觀"
+
+# @ flatsome
+#: no-results.php:13
+msgid "Nothing Found"
+msgstr "未找到"
+
+# @ flatsome
+#: no-results.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "準備發布您的第一篇文章? <a href=\"%1$s\">從這裡開始</a>."
+
+# @ flatsome
+#: no-results.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr "抱歉，沒有符合您的搜索字詞，請嘗試其它關鍵詞。"
+
+# @ flatsome
+#: no-results.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "看來我們不能找到你要找的內容&rsquo;re 也許搜索可以提供幫助"
+
+# @ flatsome
+#: page-checkout.php:17 page-checkout.php:28
+msgid "Shopping Cart"
+msgstr "購物車"
+
+# @ flatsome
+#: page-checkout.php:19 page-checkout.php:30
+msgid "Checkout details"
+msgstr "購物清單"
+
+# @ flatsome
+#: page-checkout.php:21 page-checkout.php:32
+msgid "Order Complete"
+msgstr "訂購單"
+
+# @ flatsome
+#: page-my-account.php:30 woocommerce/checkout/form-checkout.php:41
+msgid "Login / Register with <strong>Facebook</strong>"
+msgstr "登入 / 註冊 <strong>Facebook</strong>"
+
+# @ flatsome
+#: product-searchform.php:17 searchform.php:13
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "搜尋 &hellip;"
+
+# @ flatsome
+#: search.php:35
+#, php-format
+msgid "Search Results for: %s"
+msgstr "搜尋結果: %s"
+
+# @ woocommerce
+#: woocommerce/cart/cart.php:31
+msgid "Product"
+msgstr "商品"
+
+# @ woocommerce
+#: woocommerce/cart/cart.php:32
+msgid "Price"
+msgstr "價格"
+
+# @ woocommerce
+#: woocommerce/cart/cart.php:34
+msgid "Total"
+msgstr "總計"
+
+# @ woocommerce
+#: woocommerce/cart/cart.php:79
+msgid "Available on backorder"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce/cart/cart.php:138
+msgid "Update Cart"
+msgstr "更新購物車"
+
+# @ woocommerce
+#: woocommerce/cart/cart.php:146
+msgid "Coupon"
+msgstr "優惠券"
+
+# @ woocommerce
+#: woocommerce/cart/cart.php:148
+msgid "Apply Coupon"
+msgstr "使用優惠券"
+
+# @ woocommerce
+#: woocommerce/cart/shipping-calculator.php:22
+msgid "Calculate Shipping"
+msgstr "計算運費"
+
+# @ woocommerce
+#: woocommerce/cart/shipping-calculator.php:29
+msgid "Select a country&hellip;"
+msgstr "選擇您的國家&hellip;"
+
+# @ woocommerce
+#: woocommerce/cart/shipping-calculator.php:47
+#: woocommerce/cart/shipping-calculator.php:53
+#: woocommerce/cart/shipping-calculator.php:65
+msgid "State / county"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce/cart/shipping-calculator.php:54
+msgid "Select a state&hellip;"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce/cart/shipping-calculator.php:74
+msgid "City"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce/cart/shipping-calculator.php:82
+msgid "Postcode / Zip"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce/cart/shipping-calculator.php:87
+msgid "Update Totals"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr ""
+
+# @ woocommerce
+#: woocommerce/checkout/form-checkout.php:37
+msgid "Returning customer?"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce/checkout/form-checkout.php:42
+#: woocommerce/checkout/form-checkout.php:44
+msgid "Click here to login"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce/checkout/form-checkout.php:50
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer please proceed to the Billing &amp; "
+"Shipping section."
+msgstr ""
+
+# @ woocommerce
+#: woocommerce/checkout/form-checkout.php:89
+msgid "Your order"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce/content-product-flipbook.php:40
+#: woocommerce/content-product.php:76 woocommerce/content-product.php:85
+msgid "Read More"
+msgstr ""
+
+# @ flatsome
+#: woocommerce/content-product-lookbook.php:25
+#: woocommerce/content-product-pinterest-style.php:32
+#: woocommerce/content-product.php:52
+msgid "Quick View"
+msgstr "快速查看"
+
+# @ woocommerce
+#: woocommerce/content-product.php:54
+msgid "Out of stock"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce/content-product.php:68
+msgid "Select options"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce/content-product.php:72
+msgid "View options"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce/content-product.php:81
+msgid "Add to cart"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce/content-single-product-leftcol.php:7
+#: woocommerce/content-single-product-rightcol.php:7
+#: woocommerce/content-single-product.php:18
+msgctxt "slug"
+msgid "product-category"
+msgstr ""
+
+# @ flatsome
+#: woocommerce/global/breadcrumb-single-product.php:34
+#: woocommerce/global/breadcrumb.php:34
+msgid "Home"
+msgstr "首頁"
+
+# @ woocommerce
+#: woocommerce/global/breadcrumb.php:74
+msgid "Products tagged &ldquo;"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce/global/breadcrumb.php:102 woocommerce/global/breadcrumb.php:199
+msgid "Search results for &ldquo;"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce/global/breadcrumb.php:157
+msgid "Error 404"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce/global/breadcrumb.php:203
+msgid "Posts tagged &ldquo;"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce/global/breadcrumb.php:208
+msgid "Author:"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce/global/breadcrumb.php:213
+msgid "Page"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce/loop/orderby.php:21
+msgid "Default sorting"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce/loop/orderby.php:22
+msgid "Sort by popularity"
+msgstr "依熱門程度排序"
+
+# @ woocommerce
+#: woocommerce/loop/orderby.php:23
+msgid "Sort by average rating"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce/loop/orderby.php:24
+msgid "Sort by newness"
+msgstr "依最新商品排序"
+
+# @ woocommerce
+#: woocommerce/loop/orderby.php:25
+msgid "Sort by price: low to high"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce/loop/orderby.php:26
+msgid "Sort by price: high to low"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce/loop/sale-flash.php:17
+#: woocommerce/single-product/sale-flash.php:17
+msgid "Sale!"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce/myaccount/form-login.php:34
+msgid "Username or email address"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce/myaccount/form-login.php:38
+#: woocommerce/myaccount/form-login.php:84
+msgid "Password"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce/myaccount/form-login.php:47
+msgid "Lost your password?"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce/myaccount/form-login.php:49
+msgid "Remember me"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce/myaccount/form-login.php:64
+#: woocommerce/myaccount/form-login.php:96
+msgid "Register"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce/myaccount/form-login.php:72
+msgid "Username"
+msgstr ""
+
+# @ default
+#: woocommerce/myaccount/form-login.php:73
+msgid "username"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce/myaccount/form-login.php:79
+msgid "Email address"
+msgstr ""
+
+# @ default
+#: woocommerce/myaccount/form-login.php:80
+msgid "email"
+msgstr ""
+
+# @ default
+#: woocommerce/myaccount/form-login.php:85
+msgid "password"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce/myaccount/form-login.php:89
+msgid "Anti-spam"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce/single-product/add-to-cart/variable.php:25
+msgid "Choose an option"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce/single-product/add-to-cart/variable.php:73
+msgid "Clear selection"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce/single-product/add-to-cart/variable.php:104
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+# @ woocommerce
+#: woocommerce/single-product/related.php:34
+msgid "Related Products"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce/single-product/review.php:22
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce/single-product/review.php:28
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce/single-product/review.php:34
+msgid "verified owner"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce/single-product-reviews.php:28
+#, php-format
+msgid "<strong>%s review</strong> for %s"
+msgid_plural "<strong>%s reviews</strong> for %s"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ woocommerce
+#: woocommerce/single-product-reviews.php:34
+#: woocommerce/single-product-reviews.php:40
+msgid "Reviews"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce/single-product-reviews.php:68
+msgid "Be the first to review"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce/single-product-reviews.php:89
+msgid "Name"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce/single-product-reviews.php:91
+msgid "Email"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce/single-product-reviews.php:94
+msgid "Submit Review"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce/single-product-reviews.php:101
+msgid "Rating"
+msgstr "評分"
+
+# @ woocommerce
+#: woocommerce/single-product-reviews.php:102
+msgid "Rate&hellip;"
+msgstr "速度&hellip;"
+
+# @ woocommerce
+#: woocommerce/single-product-reviews.php:103
+msgid "Perfect"
+msgstr "完美"
+
+# @ woocommerce
+#: woocommerce/single-product-reviews.php:104
+msgid "Good"
+msgstr "很好"
+
+# @ woocommerce
+#: woocommerce/single-product-reviews.php:105
+msgid "Average"
+msgstr "普通"
+
+# @ woocommerce
+#: woocommerce/single-product-reviews.php:106
+msgid "Not that bad"
+msgstr "尚可"
+
+# @ woocommerce
+#: woocommerce/single-product-reviews.php:107
+msgid "Very Poor"
+msgstr "不滿意"
+
+# @ woocommerce
+#: woocommerce/single-product-reviews.php:112
+msgid "Your Review"
+msgstr ""
+
+# @ flatsome
+#: woocommerce/cart/cart.php:147
+msgid "輸入優惠代碼"
+msgstr ""
+
+# @ default
+#: admin/front-end/options.php:68
+msgid "Load Preset"
+msgstr ""
+
+# @ flatsome
+#: content-single.php:88
+msgid "by"
+msgstr ""
+
+# @ yit
+#: wishlist.php:103
+msgid "Remove this product"
+msgstr ""
+
+# @ yit
+#: wishlist.php:121
+msgid "Free!"
+msgstr "免費!"
+
+# @ yit
+#: wishlist.php:155
+msgid "No products were added to the wishlist"
+msgstr "您尚未收藏任何商品，趕緊挑喜愛的款式吧!"
+
+# @ woocommerce
+#: woocommerce/cart/cart.php:139
+msgid "前往結帳"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce/content-product_cat.php:42
+msgid "Products"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce/loop/sale-flash.php:40 woocommerce/loop/sale-flash.php:51
+#: woocommerce/single-product/sale-flash.php:40
+#: woocommerce/single-product/sale-flash.php:51
+#, php-format
+msgid "%s"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce/single-product-reviews.php:64
+msgid "Add a review"
+msgstr ""
+
+# @ flatsome
+#: 404.php:22
+msgid "很抱歉該頁面不存在，請試試其他連結!"
+msgstr ""
+
+# @ flatsome
+#: 404.php:27
+msgid ""
+"您尋找的頁面暫時不可使用或已經刪除，請試試其他搜尋或聯繫客服: service@itees."
+"com.tw"
+msgstr ""
+
+# @ yit
+#: wishlist.php:79
+msgid "商品名稱"
+msgstr ""
+
+# @ yit
+#: wishlist.php:80
+msgid "單價"
+msgstr ""
+
+# @ yit
+#: wishlist.php:81
+msgid "庫存狀況"
+msgstr ""
+
+# @ yit
+#: wishlist.php:134
+msgid "需預購"
+msgstr ""
+
+# @ yit
+#: wishlist.php:137
+msgid "有庫存"
+msgstr ""

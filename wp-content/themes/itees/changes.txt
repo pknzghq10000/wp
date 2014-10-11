@@ -1,0 +1,9 @@
+--- 1.9.6 ----
+WordPress 3.9版 2014-05-09
+itees/css/foundation.css
+itees/woocommerce/form-checkout.php
+itees/single.php  (BLOG分享按鈕)
+itees/woocommerce/loop/orderby.php (排序)
+itees/woocommerce/myaccount/form-login  (登入頁改CSS，large-6新增為large-13，2處 )
+itees/wishlist (收藏功能)
+itees/archive.php 
